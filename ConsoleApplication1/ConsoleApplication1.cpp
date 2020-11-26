@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello visualstdio git!\n";
+    std::cout << "新規ブランチで行を追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
